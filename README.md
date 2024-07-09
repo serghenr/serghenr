@@ -1,5 +1,7 @@
 ### Olá seja bem vindo! 👋
 
+https://raw.githubusercontent.com/andrebrito16/andrebrito16/output/github-contribution-grid-snake-dark.svg
+
 buscar https://devicon.dev/
 
 https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github
