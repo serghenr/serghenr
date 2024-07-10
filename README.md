@@ -1,6 +1,13 @@
-### Olá seja bem vindo! 👋
+<h1 algin="center"> 
+  Olá <img src="assets/imagens/Hi.gif" alt="hi gif" width="33"> Eu sou Sérgio Henrique! Desenvolvedor Backend - seja bem vindo!
+</h1>
 
-https://raw.githubusercontent.com/andrebrito16/andrebrito16/output/github-contribution-grid-snake-dark.svg
+<div style="text-algin:center;">
+
+  ![Snake animation](https://raw.githubusercontent.com/sergihenri/sergihenri/output/github-contribution-grid-snake-dark.svg)
+  
+</div>
+
 
 buscar https://devicon.dev/
 
