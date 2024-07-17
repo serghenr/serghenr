@@ -9,6 +9,9 @@
   
 </div>
 
+https://www.dio.me/articles/personalize-o-readme-no-github
+
+https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
 
 buscar https://devicon.dev/
 
