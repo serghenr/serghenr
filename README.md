@@ -9,9 +9,7 @@
   
 </div>
 
-https://www.dio.me/articles/personalize-o-readme-no-github
 
-https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
 
 buscar https://devicon.dev/
 
@@ -20,6 +18,7 @@ https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github
 https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
 
 https://github.com/Platane/snk
+
 <!--      
 **serghenr/serghenr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
 
