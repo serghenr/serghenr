@@ -1,11 +1,11 @@
 <h1 algin="center"> 
-  Olá <img src="assets/imagens/Hi.gif" alt="hi gif" width="33"> Eu sou Sérgio Henrique! Desenvolvedor Backend 
+  Olá <img src="assests/images/Hi.gif" alt="hi gif" width="33"> Eu sou Sérgio Henrique! Desenvolvedor Backend 
 </h1>
 <h2>seja bem vindo!</h2>
 &nbsp
 <div style="text-algin:center;">
 
-  ![Snake animation](https://raw.githubusercontent.com/sergihenri/sergihenri/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://raw.githubusercontent.com/serghenr/serghenr/output/github-contribution-grid-snake-dark.svg)
   
 </div>
 
