@@ -1,5 +1,5 @@
 <h1 algin="center"> 
-  Olá <img src="assests/images/Hi.gif" alt="hi gif" width="33"> Eu sou Sérgio Henrique! Desenvolvedor Backend 
+  Olá Eu sou Sérgio Henrique! Desenvolvedor Full Stack 
 </h1>
 <h2>seja bem vindo!</h2>
 &nbsp
